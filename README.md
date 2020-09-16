@@ -1,4 +1,4 @@
-## Grupo 14
+## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Amimir/Amimir.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -19,7 +19,7 @@ Syntax highlighted code block
 - List
 
 1. Numbered
-2. List
+https://github.com/Amimir/Amimir.github.io/blob/master/Captura.PNG
 
 **Bold** and _Italic_ and `Code` text
 
